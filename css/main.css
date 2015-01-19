@@ -1,0 +1,36 @@
+body {
+  font: 16px/2 Verdana, sans-serif;
+  color: #666666;
+}
+
+.content {
+  max-width: 1024px;
+}
+
+.header {
+  font-size: 300%;
+  padding: 24px;
+}
+
+.text-heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f07c17;
+  margin-top: 0;
+  padding-bottom: 20px;
+}
+
+.features-box {
+  border: 1px solid #cccccc;
+  margin-top: 30px;
+  padding-top: 25px;
+  padding-left: 30px;
+  min-height: 225px;
+}
+
+.mockup-overlay {
+  top: 0;
+  position: absolute;
+  z-index: -1;
+  opacity: .4;
+}
